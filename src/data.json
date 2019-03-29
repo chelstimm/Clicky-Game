@@ -1,0 +1,62 @@
+[
+    {
+      "id": 0,
+      "img": "./images/Cali-01.png",
+      "clicked": false
+    },
+    {
+      "id": 1,
+      "img": "./images/Florida-01.png",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "img": "./images/Massachusets-01.png",
+      "clicked": false
+    },
+    {
+      "id": 3,
+      "img": "./images/NJ-01.png",
+      "clicked": false
+    },
+    {
+      "id": 4,
+      "img": "./images/NY-01.png",
+      "clicked": false
+    },
+    {
+      "id": 5,
+      "img": "./images/Oregon-01.png",
+      "clicked": false
+    },
+    {
+      "id": 6,
+      "img": "./images/Texas-01.png",
+      "clicked": false
+    },
+    {
+      "id": 7,
+      "img": "./images/Utah-01.png",
+      "clicked": false
+    },
+    {
+      "id": 8,
+      "img": "./images/Virginia-01.png",
+      "clicked": false
+    },
+    {
+      "id": 9,
+      "img": "./images/Washington-01.png",
+      "clicked": false
+    },
+    {
+      "id": 10,
+      "img": "./images/Hawaii-01.png",
+      "clicked": false
+    },
+    {
+      "id": 11,
+      "img": "./images/Indiana-01.png",
+      "clicked": false
+    }
+  ]
